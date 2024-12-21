@@ -1,0 +1,6 @@
+type Book{
+    title : String
+    colpublisheror : String
+    matricul : String
+    resume : Float
+}
